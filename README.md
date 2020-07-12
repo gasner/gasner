@@ -4,11 +4,12 @@ I'm **Elad**, and I'm a Full stack developer that looking for new challenges!
 ---
 
 ### 🧙‍ Technologies
-Mostly Laravel, PHP, NodeJS, JavaScript , VueJS, MySQL.
+Mostly Laravel💚, PHP, NodeJS, JavaScript , VueJS💚, MySQL.
 
 But also friend with:
  * ReactJS
  * mongoDB
+ * Firebase
  * And more
 
 ---
@@ -29,4 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Mostly NodeJS, 
