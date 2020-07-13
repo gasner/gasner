@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Elad**, and I'm a Full stack developer that looking for new challenges!
+I'm **Elad**, a Full stack developer that is looking for new challenges!
 
 ---
 
@@ -14,7 +14,7 @@ But also friend with:
 
 ---
 - 📫 How to reach me: ...
-* @ me on [**Gmail**](eladgasner@gmail.com)
+* @ me on [**Gmail**](mailto:eladgasner@gmail.com)
 * connect with me on [**Linkedin**](https://www.linkedin.com/in/elad-gasner-03875785/)
 <!--
 **gasner/gasner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
